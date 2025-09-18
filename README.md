@@ -2,6 +2,8 @@
 
 Projeto desenvolvido para Atividade Somativa 2.
 
+Aluno: Matheus Henrique do Prado Ferreira.
+
 ✅ Funcionalidades testadas
 
 * Criar usuário com e-mail/senha
